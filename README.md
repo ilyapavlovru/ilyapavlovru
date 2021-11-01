@@ -8,7 +8,9 @@
 - Закончил "Мурманский Государственный Технический Университет" по специальности "Программное обеспечение вычислительной техники и автоматизированных систем", а также аспирантуру по специальности "Математическое моделирование, численные методы и комплексы программ" [MSTU](http://eng.mstu.edu.ru/)
 - Программирую на Java 1.5 года :computer:
 
----
+Первая часть текста, который необходимо разделить
+***
+Вторая часть текста, который необходимо разделить
 
 **Мои проекты на Java:**
 
@@ -16,7 +18,9 @@
 - [Dream Job](https://github.com/ilyapavlovru/job4j_dreamjob) Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock
 - [Todo List](https://github.com/ilyapavlovru/job4j_todo) Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
 
----
+Первая часть текста, который необходимо разделить
+***
+Вторая часть текста, который необходимо разделить
 
 **Моя статистика:**
 
