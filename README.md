@@ -14,6 +14,7 @@
 - [Todo List](https://github.com/ilyapavlovru/job4j_todo) Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ilyapavlovru&hide=stars,prs,issues,contribs)
 
 
 <!-- **ilyapavlovru/ilyapavlovru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
