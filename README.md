@@ -26,6 +26,8 @@
 
 ![telegram](https://img.shields.io/badge/Telegram-#26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+
 <!-- **ilyapavlovru/ilyapavlovru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
