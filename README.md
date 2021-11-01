@@ -8,23 +8,20 @@
 - Закончил "Мурманский Государственный Технический Университет" по специальности "Программное обеспечение вычислительной техники и автоматизированных систем", а также аспирантуру по специальности "Математическое моделирование, численные методы и комплексы программ" [MSTU](http://eng.mstu.edu.ru/)
 - Программирую на Java 1.5 года :computer:
 
-
+---
 **Мои проекты на Java:**
 
 - [Cars](https://github.com/ilyapavlovru/job4j_cars) Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
 - [Dream Job](https://github.com/ilyapavlovru/job4j_dreamjob) Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock
 - [Todo List](https://github.com/ilyapavlovru/job4j_todo) Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
 
-
+---
 **Моя статистика:**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ilyapavlovru&hide=stars,prs,issues,contribs)
 
 
 
-Первая часть текста, который необходимо разделить
----
-Вторая часть текста, который необходимо разделить
 
 <!-- **ilyapavlovru/ilyapavlovru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
