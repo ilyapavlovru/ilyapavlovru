@@ -24,7 +24,7 @@
 **Контакты:**
 
 [![telegram](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/pavlovilyaru)
-[![email](https://img.shields.io/badge/Mail.Ru-blue?style=for-the-badge&logo=Mail.Ru&logoColor=white)](https://t.me/pavlovilyaru)
+[![email](https://img.shields.io/badge/Mail.Ru-red?style=for-the-badge&logo=Mail.Ru&logoColor=white)](https://t.me/pavlovilyaru)
 
 <!-- **ilyapavlovru/ilyapavlovru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
