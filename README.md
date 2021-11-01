@@ -1,5 +1,9 @@
 ### Hi! My name is Ilya 👋
 
+**About me**
+- I am 36 year old programmer from Saint Petersburg computer
+- I learn Java at Job4j coffee
+
 <!--
 **ilyapavlovru/ilyapavlovru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
