@@ -7,7 +7,7 @@
 - Программирую на Java 1.5 года :computer:
 
 **Мои проекты на Java:**
-- Cars [Cars](https://github.com/ilyapavlovru/job4j_cars) 
+- [Cars](https://github.com/ilyapavlovru/job4j_cars) 
 
 <!--
 **ilyapavlovru/ilyapavlovru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
