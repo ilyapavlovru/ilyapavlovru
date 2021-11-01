@@ -22,9 +22,9 @@
 
 
 
-#  Заголовок первого уровня #
-### Заголовок третьего уровня ###
-###### Заголовок шестого уровня ######
+Первая часть текста, который необходимо разделить
+***
+Вторая часть текста, который необходимо разделить
 
 <!-- **ilyapavlovru/ilyapavlovru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
