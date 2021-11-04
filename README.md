@@ -11,10 +11,11 @@
 
 **Мои проекты на Java:**
 
-- [Cars](https://github.com/ilyapavlovru/job4j_cars) Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
-- [Dream Job](https://github.com/ilyapavlovru/job4j_dreamjob) Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock
-- [Todo List](https://github.com/ilyapavlovru/job4j_todo) Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
-- [Forum](https://github.com/ilyapavlovru/job4j_forum) Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku
+- [Cars](https://github.com/ilyapavlovru/job4j_cars) Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, JUnit4, Mockito, PowerMock
+- [Dream Job](https://github.com/ilyapavlovru/job4j_dreamjob) Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, JUnit4, Mockito, PowerMock
+- [Todo List](https://github.com/ilyapavlovru/job4j_todo) Java EE, Servlets, PostgreSQL, Hibernate, JUnit4, Mockito, PowerMock, Maven, Tomcat
+- [Forum](https://github.com/ilyapavlovru/job4j_forum) Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Liquibase, Maven, Heroku
+- [Cinema](https://github.com/ilyapavlovru/job4j_cinema) Java EE Servlets, PostgreSQL, JDBC, JUnit4
  
 
 **Моя статистика:**
