@@ -18,6 +18,7 @@
 - [Cinema](https://github.com/ilyapavlovru/job4j_cinema) Java EE Servlets, PostgreSQL, JDBC, JUnit4
 - [Car Accident](https://github.com/ilyapavlovru/job4j_car_accident) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
 - [Url Shortcut](https://github.com/ilyapavlovru/job4j_url_shortcut) Spring Boot (Data, Security & JWT authorization), PostgreSQL, Maven
+- [Chat](https://github.com/ilyapavlovru/job4j_chat) Spring Boot (Data, Security & JWT authorization), PostgreSQL, Maven
 
 
 **Моя статистика:**
