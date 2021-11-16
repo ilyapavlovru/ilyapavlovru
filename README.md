@@ -19,6 +19,7 @@
 - [Car Accident](https://github.com/ilyapavlovru/job4j_car_accident) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
 - [Url Shortcut](https://github.com/ilyapavlovru/job4j_url_shortcut) Spring Boot (Data, Security & JWT authorization), PostgreSQL, Maven
 - [Chat](https://github.com/ilyapavlovru/job4j_chat) Spring Boot (Data, Security & JWT authorization), PostgreSQL, Maven
+- [Passport](https://github.com/ilyapavlovru/job4j_passport) Spring Boot (Data, ORM), PostgreSQL, Apache Kafka, Maven
 
 
 **Моя статистика:**
