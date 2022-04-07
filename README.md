@@ -17,7 +17,7 @@
 - [Forum](https://github.com/ilyapavlovru/job4j_forum) Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Liquibase, Maven, Heroku
 - [Cinema](https://github.com/ilyapavlovru/job4j_cinema) Java EE Servlets, PostgreSQL, JDBC, JUnit4
 - [Car Accident](https://github.com/ilyapavlovru/job4j_car_accident) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
-- [Url Shortcut](https://github.com/ilyapavlovru/job4j_url_shortcut) Spring Boot (Data, Security & JWT authorization), PostgreSQL, Maven
+- [Url Shortcut](https://github.com/ilyapavlovru/job4j_url_shortcut) Spring Boot (Data, Security & JWT authorization), PostgreSQL, Maven, Docker, Kubernetes
 - [Chat](https://github.com/ilyapavlovru/job4j_chat) Spring Boot (Data, Security & JWT authorization), PostgreSQL, Maven
 - [Passport](https://github.com/ilyapavlovru/job4j_passport) Spring Boot (Data, ORM), PostgreSQL, Apache Kafka, Maven
 
